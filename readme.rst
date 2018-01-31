@@ -1,6 +1,20 @@
 ###################
-What is CodeIgniter
+How To Use
 ###################
+
+
+1. import test.sql
+2. go to folder config and check config.php, set up $config['base_url'] = ''; to $config['base_url'] = 'http://localhost:8080/Test/';
+3. go to folder config and check autoload.php, set $autoload['libraries'] = array(''); to $autoload['libraries'] = array('database');
+4. go to folder config and check database.php, set 'database' => 'test'
+5. tes rest service with postman for GET, POST, PUT and Delete methods
+6. url service : http://localhost:8080/Test/index.php/user
+7. in postman set basic auth with username : admin, password : 1234
+8. in postman set X-API-KEY : BEBEK123
+
+*******************
+What is CodeIgniter
+*******************
 
 CodeIgniter is an Application Development Framework - a toolkit - for people
 who build web sites using PHP. Its goal is to enable you to develop projects
