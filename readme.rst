@@ -11,6 +11,7 @@ How To Use
 6. url service : http://localhost:8080/Test/index.php/user
 7. in postman set basic auth with username : admin, password : 1234
 8. in postman set X-API-KEY : BEBEK123
+9. using client exaample for consuming rest : https://github.com/bahtyar/REST_CI_CLIENT_auth-keys
 
 *******************
 What is CodeIgniter
