@@ -12,6 +12,7 @@ How To Use
 7. in postman set basic auth with username : admin, password : 1234
 8. in postman set X-API-KEY : BEBEK123
 9. using client exaample for consuming rest : https://github.com/bahtyar/REST_CI_CLIENT_auth-keys
+10. completed with login client site saample : https://github.com/bahtyar/rest_ci_auth_client_site
 
 *******************
 What is CodeIgniter
